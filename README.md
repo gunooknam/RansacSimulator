@@ -13,7 +13,7 @@ Image Processing HW1
 
    
 
-![](demo.gif)
+![](./Demo.gif)
 
 
 
