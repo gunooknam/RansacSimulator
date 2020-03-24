@@ -12,8 +12,7 @@ Image Processing HW1
 4. compare all points lms & Ransac
 
    
-
-![](./Demo.gif)
+<img src="./Demo.gif" width=400 >
 
 
 
